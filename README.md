@@ -1,6 +1,6 @@
 # Catatan Penggunaan Tools Kali Linux
 
-1. Nmap - Alat Pemindai Jaringan [https://github.com/FII14/Nmap/blob/main/README.md](https://github.com/FII14/Nmap/blob/main/README.md)
+1. Nmap - Alat Pemindai Jaringan [https://github.com/FII14/Nmap](https://github.com/FII14/Nmap)
 
 2. SQLMap - Alat Uji Penetrasi [https://github.com/FII14/SQLMap/blob/main/README.md](https://github.com/FII14/SQLMap/blob/main/README.md)
 
